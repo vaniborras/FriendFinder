@@ -1,0 +1,7 @@
+node_modules
+.idea
+app
+package.json
+public
+routing
+server.js
